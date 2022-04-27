@@ -12,7 +12,6 @@ raspberry
 
 
 
-from operator import truediv
 from pprint import pprint
 
 BASKET_TOTAL = 8
