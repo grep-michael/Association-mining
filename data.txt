@@ -1,0 +1,8 @@
+banana,pear,apple,strawberry,raspberry
+banana,apple,blueberry,strawberry 
+banana,apple,pear
+pear,apple,blueberry,raspberry
+banana,apple,pear,raspberry
+raspberry,blueberry,strawberry
+apple,raspberry,blueberry
+pear,apple,blueberry,raspberry
